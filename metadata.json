@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Kyoto Travel Planner",
+  "description": "An interactive single-page application that provides a detailed, personalized 8-day travel itinerary for a trip to Kyoto, Japan. It includes daily schedules, transportation advice, accommodation details, and food recommendations, all presented in a visually appealing and user-friendly interface.",
+  "requestFramePermissions": []
+}
